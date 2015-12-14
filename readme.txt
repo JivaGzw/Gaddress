@@ -8,6 +8,6 @@ nodejs下载地址：https://nodejs.org/en/
 
 3.安装完成后在address_list目录下执行：node server.js运行nodejs服务器
 
-4.打开浏览器访问：localhost:3000即可
+4.打开浏览器访问：localhost:8080即可
 
 如有问题请联系：关智文 tel:13716961662  qq:1030013514 email:1030013514@qq.com
